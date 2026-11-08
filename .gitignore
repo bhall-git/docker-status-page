@@ -1,0 +1,10 @@
+# Generated files
+index.html
+
+# Temporary files
+*.log
+*.tmp
+
+# Editor files
+*~
+*.swp
